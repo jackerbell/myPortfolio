@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/jackerbell/myPortfolio/static/css/main.3d9abbcb.css",
+    "main.js": "/jackerbell/myPortfolio/static/js/main.67455787.js",
+    "static/js/787.1f11dfe9.chunk.js": "/jackerbell/myPortfolio/static/js/787.1f11dfe9.chunk.js",
+    "static/media/MySQL.svg": "/jackerbell/myPortfolio/static/media/MySQL.72bab5fa7feeb9a145757ae05fffc00e.svg",
+    "static/media/Jquery.svg": "/jackerbell/myPortfolio/static/media/Jquery.36057119c858e85dfb6548bbe2605e1a.svg",
+    "static/media/React.svg": "/jackerbell/myPortfolio/static/media/React.1495a6a0c751ac52af3164f785e64d7b.svg",
+    "static/media/NodeJS.svg": "/jackerbell/myPortfolio/static/media/NodeJS.d5a4bebaf3c2e2d91d1d1e2d61c650e2.svg",
+    "static/media/Javascript.svg": "/jackerbell/myPortfolio/static/media/Javascript.75fa9cdf8b00c1ddc571fbe57667c38f.svg",
+    "static/media/R.svg": "/jackerbell/myPortfolio/static/media/R.679f9b469bc5fa35fd3e48db9c077a11.svg",
+    "static/media/Github.svg": "/jackerbell/myPortfolio/static/media/Github.7b8957dbab85107e12b6a994680a0b7c.svg",
+    "static/media/express.svg": "/jackerbell/myPortfolio/static/media/express.cec054992f52fde8462043e2b7d2943c.svg",
+    "index.html": "/jackerbell/myPortfolio/index.html",
+    "static/media/Git.svg": "/jackerbell/myPortfolio/static/media/Git.19064d2f488c9f4fcd25ba3896b0f66a.svg",
+    "static/media/CSS3.svg": "/jackerbell/myPortfolio/static/media/CSS3.2cde306c83800ae630212244019d4c2d.svg",
+    "static/media/HTML5.svg": "/jackerbell/myPortfolio/static/media/HTML5.74577817dde8fee285d3c8af53312ca6.svg",
+    "main.3d9abbcb.css.map": "/jackerbell/myPortfolio/static/css/main.3d9abbcb.css.map",
+    "main.67455787.js.map": "/jackerbell/myPortfolio/static/js/main.67455787.js.map",
+    "787.1f11dfe9.chunk.js.map": "/jackerbell/myPortfolio/static/js/787.1f11dfe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d9abbcb.css",
+    "static/js/main.67455787.js"
+  ]
+}
